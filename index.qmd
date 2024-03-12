@@ -1,17 +1,6 @@
 ---
 title: "Welcome to kqlqkqlqF's Site!! Pls enjoy! XD"
 ---
-```{r}
-#| include: false
-#| echo: false
-#| message: false
-
-library(usethis)
-
-file.create(".nojekyll")
-use_git()
-use_github()
-```
 
 # Welcome to kqlqkqlqF's Site!
 
