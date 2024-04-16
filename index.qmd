@@ -27,6 +27,10 @@ In a nutshell, I'm just an ordinary university student with a strong desire to e
 
 # Videos I <span style="color: grey;">(We)</span> Made
 
+<iframe src="//player.bilibili.com/player.html?bvid=BV1xE421T7GG&page=1&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1rm42177qW&page=1&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+
 <iframe src="//player.bilibili.com/player.html?bvid=BV1NS4y147fR&page=1&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 
 I <span style="color: grey;">(We)</span> regularly post new videos on the Bilibili video platform. Unless there are special circumstances, we aim to update with at least one video every two weeks. Additionally, resources related to the video, such as images and text, will be reformatted and uploaded to other platforms, such as Xiaohongshu and Lofter. The videos I <span style="color: grey;">(we)</span> make are primarily derivative works related to anime and manga, including short animations and memes. Original character and world-building videos are also in production, but due to their limited audience appeal compared to derivative works, I <span style="color: grey;">(we)</span> plan to increase the release of original character-related videos once we<span style="color: grey;">(us)</span> have a larger fanbase.
