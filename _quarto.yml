@@ -8,7 +8,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: index_zh.qmd
+        text: 中文首页
+      - href: about.qmd
+        text: About
 
 format:
   html:

@@ -1,0 +1,180 @@
+---
+title: "KQLQKQLQF的个人网站"
+---
+
+# 欢迎来到kqlqkqlqF的网站！！
+
+这是kqlqkqlqF网站的首页。请随意探索和享受吧！XD
+
+# 关于我！<span style="color: grey;">（关于我们）</span>
+
+---！！！前排提示，如果你想看些正经的东西，那完全可以跳过这段中二感溢出的“自我介绍”，直接看后面的内容了！相信我，阅读它对你来说除了让你尴尬到脚趾抓地以外没啥好处！---
+
+我是kqlqkqlqF，这个网站展示了我过去完成的项目以及我的兴趣爱好...不！！！我当然不会在我的个人网站上写出这莫无趣的文字！让我们重新开始介绍吧！<span style="color: grey;">（难得见你如此...奔放的一面）</span>
+
+:)你好！我是冯一伊，但你可能更熟悉我的网名“kqlq”。你可以把我想象成一个古怪多面的创作爱好者，最擅长的事情就是随时随地开启一场只有我自己的思维盛宴……低情商地说，是胡思乱想 :( <span style="color: grey;">（高情商地说，大概是天马行空？）</span>
+
+
+目前，我正在多伦多大学攻读基因生物学以及统计学士学位。我的课程？哦，如你所料，就是一些统计学啊，细胞与分子生物学之类的课程的混合。没什么大不了的，对吧？
+
+尽管我热爱一切我不了解的事物，但显然我并不是一个典型的科学书呆子。当然，我可以像专业人士一样分析数据或者在实验室提取DNA，但我还曾兼职在一个网吧当餐饮服务员。是的，你没听错——我是调制饮料和编写代码的时间管理大师！<span style="color: grey;">（求你了，低调一点...）</span>
+
+当我不在实验室里埋头进行实验或在对着Rstudio编写代码时，你大概率能够看到我如何与自己无处释放的创造力相处。从在Procreate上设计原创角色到在AE里制作二创小动画，我希望能够以最好的方式把我脑海里的构思呈现给大家。！<span style="color: grey;">（这倒是说的没错，很有你的风格）</span>
+
+但等一下，这还不是全部！我还是一个自学成才的经济学家！<span style="color: grey;">（这确实吹得有点太过了）</span>，是一个正在成为大厨的高手！<span style="color: grey;">（问问我最近又做了什么大菜）</span>，还是一个正在埋头学习日语的初学者！<span style="color: grey;">（为什莫日语语法一个字那麽多用法）</span>哦，我我是不是有点过于喜欢吹嘘自己了？！<span style="color: grey;">（确实，我都有点看不下去了）</span>是的，起码我觉得我有点了不起。！<span style="color: grey;">（如果你没有人格分裂似的和自己吵架的话，确实。）</span>
+
+总而言之，我只是一个普通的大学生，有着对未知的强烈探索欲望，并总能为止积极行动起来。所以，快上车系好安全带，一起踏上这场称为生活的旅程——它一定会是一场精彩的冒险！
+<span style="color: grey;">（而我，或者说我们...实际上kqlq的设定是类似精分的两个人，一个是对生活包含热情的探险家，另一个是感性内敛的白日梦想家。我们两个人各代表了kqlq的一部分，而就像事物总有两面性...少了任何一个人，我们都不再是kqlq--这是来自kqlq的小小致意。现在，不如就加入她，或者说加我们的旅程吧！毕竟谁都无法留在原地，不如拥抱未来，不是吗。）</span>
+
+# 我<span style="color: grey;">（们）</span>制作的视频
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1NS4y147fR&page=1&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+
+我<span style="color: grey;">（们）</span>会定期在BILBILI视频网站发布新的视频。如果没有特殊情况两周会至少更新一个视频，同时与该视频相关的图文资源会被重新排版导出上传到其他平台，比如小红书和Lofter。我<span style="color: grey;">（们）</span>制作的视频目前主要是二次元作品的相关二次创作产物，包括小剧场和手书。原创角色和世界观的视频也在制作中，不过鉴于引流能力比起二创作品实在太差，我<span style="color: grey;">（们</span>）计划在粉丝量较多再开始增加投放原创角色相关的视频。
+
+# 我<span style="color: grey;">（们）</span>的Github主页
+
+<img src="ee/githubmain.png" alt="Drawing 5" style="width: 90%;">
+
+[点击这里访问！XD](https://github.com/kqlqkqlqF)
+
+里面保存了一些我<span style="color: grey;">（们）</span>以前写过的有关于数据分析的论文，以及支持本个人网站页面的相关代码。对于每个repository里文件的具体用处都在Readme中列出来了，读完就能速通这些乱七八糟的文件夹咯。
+
+# 我<span style="color: grey;">（们）</span>的画
+
+<html>
+<head>
+  <style>
+    /* Style for the container */
+    .image-container {
+      width: 100%;
+      height: 500px; /* Adjust the height as needed */
+      overflow-x: auto; /* Enable horizontal scrolling */
+      white-space: nowrap; /* Prevent images from wrapping to new line */
+    }
+    /* Style for individual images */
+    .image-container img {
+      width: auto; /* Adjust the width of the images */
+      height: 500px; /* Maintain aspect ratio */
+      margin-right: 10px; /* Add space between images */
+      cursor: pointer; /* Change cursor to pointer on hover */
+    }
+    /* Style for the modal */
+    .modal {
+      display: none; /* Hide the modal by default */
+      position: fixed;
+      z-index: 1;
+      padding-top: 50px; /* Adjust padding-top to center modal vertically */
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      overflow: auto;
+      background-color: rgba(0, 0, 0, 0.9);
+    }
+    /* Style for the modal content */
+    .modal-content {
+      margin: auto;
+      display: block;
+      max-width: 100%; /* Limit the maximum width of the modal content */
+      max-height: 100%; /* Limit the maximum height of the modal content */
+    }
+    /* Style for the close button */
+    .close {
+      position: absolute;
+      top: 15px;
+      right: 35px;
+      color: #f1f1f1;
+      font-size: 40px;
+      font-weight: bold;
+      transition: 0.3s;
+      cursor: pointer;
+    }
+    /* Style for the close button on hover */
+    .close:hover,
+    .close:focus {
+      color: #bbb;
+      text-decoration: none;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+
+<!-- Scrollable container for images -->
+<div class="image-container">
+  <!-- Images -->
+  <img src="ee/IMG_5495.jpeg" alt="Drawing 1" onclick="openModal('ee/IMG_5495.jpeg')">
+  <img src="ee/IMG_5475.jpeg" alt="Drawing 2" onclick="openModal('ee/IMG_5475.jpeg')">
+  <img src="ee/IMG_5721.jpeg" alt="Drawing 3" onclick="openModal('ee/IMG_5721.jpeg')">
+  <img src="ee/IMG_5805.jpeg" alt="Drawing 4" onclick="openModal('ee/IMG_5805.jpeg')">
+  <img src="ee/IMG_6109.jpeg" alt="Drawing 5" onclick="openModal('ee/IMG_6109.jpeg')">
+  <img src="ee/IMG_5825.jpeg" alt="Drawing 6" onclick="openModal('ee/IMG_5825.jpeg')">
+  <img src="ee/IMG_6227.jpeg" alt="Drawing 7" onclick="openModal('ee/IMG_6227.jpeg')">
+  <img src="ee/IMG_6162.jpeg" alt="Drawing 8" onclick="openModal('ee/IMG_6162.jpeg')">
+</div>
+
+<!-- The Modal -->
+<div id="myModal" class="modal">
+  <span class="close" onclick="closeModal()">&times;</span>
+  <img class="modal-content" id="modalImg">
+</div>
+
+<script>
+  // Function to open the modal and display the larger image
+  function openModal(imgSrc) {
+    var modal = document.getElementById("myModal");
+    var modalImg = document.getElementById("modalImg");
+    modal.style.display = "block";
+    modalImg.src = imgSrc;
+    modalImg.style.width = "auto"; // Reset width to auto
+    modalImg.style.height = "auto"; // Reset height to auto
+  }
+
+  // Function to close the modal
+  function closeModal() {
+    var modal = document.getElementById("myModal");
+    modal.style.display = "none";
+  }
+</script>
+
+</body>
+</html>
+
+（左右/上下滑动查看更多作品，点击画面可以查看高清大图）
+
+这些画里有些是我<span style="color: grey;">（们）</span>的原创角色，有些是二次创作。有些是为了视频画的，有些就是单纯的插画，不过都是最近一年内完成的作品。由于我<span style="color: grey;">（们）</span>的绘画水平还有很大的进步空间，目前仍在不断摸索和学习新的绘画风格。
+
+
+# 我<span style="color: grey;">（们）</span>的社交媒体账户首页
+
+BILIBILI账号：
+
+<iframe src="https://space.bilibili.com/69910440?spm_id_from=333.788.0.0" width="100%" height="600" frameborder="0" scrolling="auto"></iframe>
+
+小红书账号：
+
+<iframe src="https://www.xiaohongshu.com/user/profile/5af8495b6b58b776177f59f0" width="100%" height="600" frameborder="0" scrolling="auto"></iframe>
+
+Lofter账号：
+PS. Lofter主页必须登录才能显示，如果不想登录，可以直接搜索lofter账号id“wodhkqlq”。
+
+<iframe src="https://www.lofter.com/theme/wodhkqlq#/" width="100%" height="600" frameborder="0" scrolling="auto"></iframe>
+
+
+# 我<span style="color: grey;">（们）</span>的简历
+
+平平无奇，这就是回归生活后真实又正经的我<span style="color: grey;">（们）</span>。
+
+<embed src="document/Yiyi_Feng_CV.pdf" type="application/pdf" width="100%" height="600">
+
+
+# 如果你想联系我<span style="color: grey;">（们）</span>
+
+I看到这里，如果你还没有被我<span style="color: grey;">（们）</span>美好的精神状态吓到，欢迎通过以下的联系方式联系我<span style="color: grey;">（们）</span>！当然，对于我<span style="color: grey;">（们）</span>来说，邮箱是最好的联系方式。
+
+微信账号：kqlqkqlq
+
+电话：（+86）13718814903/（+1）4376843188
+
+邮箱地址：kqlqkqlqkqlqkqlq@gmail.com

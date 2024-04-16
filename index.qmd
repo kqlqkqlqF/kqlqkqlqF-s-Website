@@ -1,58 +1,178 @@
 ---
-title: "Welcome to kqlqkqlqF's Site!! Pls enjoy! XD"
+title: "KQLQKQLQF's Personal Website"
 ---
 
-# Welcome to kqlqkqlqF's Site!
+# Welcome to kqlqkqlqF's Website!!
 
-This is the homepage of kqlqkqlqF's website. Feel free to explore and enjoy!
+This is the homepage of kqlqkqlqF's website. Feel free to explore and enjoy! XD
 
-## About Me
+# About Me! <span style="color: grey;">(About Us)</span>
 
-I am kqlqkqlqF, and I created this website to share my interests and projects...No!!!! I won't write anything as boring as this on my bio! Lets just start again!
+---!!! Front row tip: If you want to see something serious, you can completely skip this section of "self-introduction" overflowing with adolescent vibes and go directly to the content below! Believe me, reading it will only make you feel embarrassed! ---
 
-:) Hey there, I'm Yiyi Feng, but you might know me better by my online alias, "kqlq." Think of me as your friendly neighborhood science enthusiast with a knack for creating chaos... I mean, innovative solutions in the lab!
+I'm kqlqkqlqF, and this website showcases the projects I've completed in the past as well as my hobbies and interests... No!!! Of course, I won't write such boring text on my personal website! Let's start over with the introduction! <span style="color: grey;">(Nice to see this side of you... so bold)</span>
 
-Currently, I'm on a wild adventure pursuing a Bachelor of Science degree at the University of Toronto. My curriculum? Oh, just your usual mix of Genome Biology, Statistics, and Cell & Molecular Biology. No biggie, right?
+:) Hello there! I'm Yiyi Feng, but you might know me better by my online alias "kqlq". You can imagine me as a quirky and multifaceted creative enthusiast, best known for opening a mind feast that's uniquely my own at any time and any place... To put it bluntly, it's just a mess of thoughts :( <span style="color: grey;">(From a higher emotional intelligence standpoint, perhaps it's just flights of fancy?)</span>
 
-Despite my love for all things nerdy, I'm not your typical science geek. Sure, I can crunch numbers and dissect DNA like a pro, but I also moonlight as a mixologist at a cyber bar. Yep, you heard that right – I'm the master of mixing drinks and breaking code simultaneously!
+Currently, I'm pursuing a Bachelor's degree in Genetics and Statistics at the University of Toronto. My curriculum? Oh, just your usual mix of statistics, cell and molecular biology courses. No big deal, right?
 
-When I'm not busy brewing up experiments in the lab or slinging cocktails behind the bar, you can find me unleashing my creative side. From whipping up digital masterpieces on Procreate to producing hilarious videos on iMovie, I'm a jack-of-all-trades when it comes to creative pursuits.
+Although I have a passion for everything I don't understand, I'm clearly not your typical science nerd. Sure, I can analyze data like a pro or extract DNA in the lab, but I've also worked part-time as a bartender in a cyber bar. Yes, you heard that right—I'm a time management master of mixing drinks and coding! <span style="color: grey;">(Please, a little humility...)</span>
 
-But wait, there's more! I'm also a self-taught economics guru, a master chef in the making (just ask my latest kitchen experiments), and a budding polyglot dabbling in Japanese. Oh, and did I mention I once won an award for designing a quirky picture book? Yeah, I'm kind of a big deal.
+When I'm not buried in experiments in the lab or coding in RStudio, you'll probably see me interacting with my unbridled creativity. From designing original characters on Procreate to creating secondary animation on AE, I hope to present my ideas in the best possible way! <span style="color: grey;">(That's a fair assessment, very much your style)</span>
 
-In a nutshell, I'm just your average science nerd with a quirky sense of humor and an insatiable thirst for knowledge. So, buckle up and join me on this crazy ride called life – it's bound to be one heck of an adventure!
+But wait, there's more! I'm also a self-taught economist! <span style="color: grey;">(You're blowing your own trumpet a bit too much)</span>, a budding chef in the making! <span style="color: grey;">(Ask me what culinary masterpieces I've made recently)</span>, and a beginner learning Japanese! <span style="color: grey;">(Why does Japanese grammar have so many uses for one word?)</span> Oh, am I perhaps a bit too fond of boasting about myself?! <span style="color: grey;">(Indeed, it's becoming a bit hard to read)</span> Well, at least I think I'm kind of a big deal. <span style="color: grey;">(If you're not arguing with yourself like a split personality, indeed.)</span>
 
-## Video Project : 
+In a nutshell, I'm just an ordinary university student with a strong desire to explore the unknown and always ready to take positive action. So, fasten your seatbelts and embark on this adventure called life with me—it's bound to be an exciting journey! 
+
+
+# Videos I <span style="color: grey;">(We)</span> Made
 
 <iframe src="//player.bilibili.com/player.html?bvid=BV1NS4y147fR&page=1&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 
-This is my drawing video from BILIBILI! TBH I made this video 2 years ago and I can definately see how bad its quality was now....
+I <span style="color: grey;">(We)</span> regularly post new videos on the Bilibili video platform. Unless there are special circumstances, we aim to update with at least one video every two weeks. Additionally, resources related to the video, such as images and text, will be reformatted and uploaded to other platforms, such as Xiaohongshu and Lofter. The videos I <span style="color: grey;">(we)</span> make are primarily derivative works related to anime and manga, including short animations and memes. Original character and world-building videos are also in production, but due to their limited audience appeal compared to derivative works, I <span style="color: grey;">(we)</span> plan to increase the release of original character-related videos once we<span style="color: grey;">(us)</span> have a larger fanbase.
 
-## Git Project : [https://github.com/kqlqkqlqF](project2.html)
+# My <span style="color: grey;">(Our)</span> Github Homepage
 
-This is my github main page!
+<img src="ee/githubmain.png" alt="Drawing 5" style="width: 90%;">
 
-# My Drawings
+[Click here to visit! XD](https://github.com/kqlqkqlqF)
 
-Here are some of my drawings:
+It contains some papers I <span style="color: grey;">(we)</span> have written about data analysis in the past, as well as related code to support this personal website page. The specific uses of the files in each repository are listed in the Readme, so you can quickly understand these messy folders after reading them.
 
-<img src="ee/IMG_5495.jpeg" alt="Drawing 1" style="width: 50%;">
 
-<img src="ee/IMG_5475.jpeg" alt="Drawing 2" style="width: 50%;">
+# My <span style="color: grey;">(Our)</span> Drawings
 
-<img src="ee/IMG_5721.jpeg" alt="Drawing 3" style="width: 50%;">
+<html>
+<head>
+  <style>
+    /* Style for the container */
+    .image-container {
+      width: 100%;
+      height: 500px; /* Adjust the height as needed */
+      overflow-x: auto; /* Enable horizontal scrolling */
+      white-space: nowrap; /* Prevent images from wrapping to new line */
+    }
+    /* Style for individual images */
+    .image-container img {
+      width: auto; /* Adjust the width of the images */
+      height: 500px; /* Maintain aspect ratio */
+      margin-right: 10px; /* Add space between images */
+      cursor: pointer; /* Change cursor to pointer on hover */
+    }
+    /* Style for the modal */
+    .modal {
+      display: none; /* Hide the modal by default */
+      position: fixed;
+      z-index: 1;
+      padding-top: 50px; /* Adjust padding-top to center modal vertically */
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      overflow: auto;
+      background-color: rgba(0, 0, 0, 0.9);
+    }
+    /* Style for the modal content */
+    .modal-content {
+      margin: auto;
+      display: block;
+      max-width: 100%; /* Limit the maximum width of the modal content */
+      max-height: 100%; /* Limit the maximum height of the modal content */
+    }
+    /* Style for the close button */
+    .close {
+      position: absolute;
+      top: 15px;
+      right: 35px;
+      color: #f1f1f1;
+      font-size: 40px;
+      font-weight: bold;
+      transition: 0.3s;
+      cursor: pointer;
+    }
+    /* Style for the close button on hover */
+    .close:hover,
+    .close:focus {
+      color: #bbb;
+      text-decoration: none;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
 
-<img src="ee/IMG_5805.jpeg" alt="Drawing 4" style="width: 50%;">
+<!-- Scrollable container for images -->
+<div class="image-container">
+  <!-- Images -->
+  <img src="ee/IMG_5495.jpeg" alt="Drawing 1" onclick="openModal('ee/IMG_5495.jpeg')">
+  <img src="ee/IMG_5475.jpeg" alt="Drawing 2" onclick="openModal('ee/IMG_5475.jpeg')">
+  <img src="ee/IMG_5721.jpeg" alt="Drawing 3" onclick="openModal('ee/IMG_5721.jpeg')">
+  <img src="ee/IMG_5805.jpeg" alt="Drawing 4" onclick="openModal('ee/IMG_5805.jpeg')">
+  <img src="ee/IMG_6109.jpeg" alt="Drawing 5" onclick="openModal('ee/IMG_6109.jpeg')">
+  <img src="ee/IMG_5825.jpeg" alt="Drawing 6" onclick="openModal('ee/IMG_5825.jpeg')">
+  <img src="ee/IMG_6227.jpeg" alt="Drawing 7" onclick="openModal('ee/IMG_6227.jpeg')">
+  <img src="ee/IMG_6162.jpeg" alt="Drawing 8" onclick="openModal('ee/IMG_6162.jpeg')">
+</div>
 
-<img src="ee/IMG_6109.jpeg" alt="Drawing 5" style="width: 50%;">
+<!-- The Modal -->
+<div id="myModal" class="modal">
+  <span class="close" onclick="closeModal()">&times;</span>
+  <img class="modal-content" id="modalImg">
+</div>
 
-# My CV
+<script>
+  // Function to open the modal and display the larger image
+  function openModal(imgSrc) {
+    var modal = document.getElementById("myModal");
+    var modalImg = document.getElementById("modalImg");
+    modal.style.display = "block";
+    modalImg.src = imgSrc;
+    modalImg.style.width = "auto"; // Reset width to auto
+    modalImg.style.height = "auto"; // Reset height to auto
+  }
 
-Here is my CV!
+  // Function to close the modal
+  function closeModal() {
+    var modal = document.getElementById("myModal");
+    modal.style.display = "none";
+  }
+</script>
+
+</body>
+</html>
+
+(Scroll left/right or up/down to see more works, click on the image to view a high-resolution version)
+
+Some of these drawings are original characters created by me<span style="color: grey;">(us)</span>, while others are derivative works. Some are created for videos, while others are just illustrations, but all of them were completed within the past year. As my drawing skills still have a lot of room for improvement, I<span style="color: grey;">(we)</span> continue to explore and learn new drawing styles.
+
+# My <span style="color: grey;">(Our)</span> Social Media Account Homepages
+
+BILIBILI Account:
+
+<iframe src="https://space.bilibili.com/69910440?spm_id_from=333.788.0.0" width="100%" height="600" frameborder="0" scrolling="auto"></iframe>
+
+Xiaohongshu (Little Red Book) Account:
+
+<iframe src="https://www.xiaohongshu.com/user/profile/5af8495b6b58b776177f59f0" width="100%" height="600" frameborder="0" scrolling="auto"></iframe>
+
+Lofter Account:
+
+PS. Lofter homepage requires login to display. If you prefer not to log in, you can directly search for the Lofter account ID "wodhkqlq".
+
+<iframe src="https://www.lofter.com/theme/wodhkqlq#/" width="100%" height="600" frameborder="0" scrolling="auto"></iframe>
+
+# My <span style="color: grey;">(Our)</span> Resume
+
+Just an ordinary resume, presenting the real and serious side of me <span style="color: grey;">(us)</span> after returning to life.
 
 <embed src="document/Yiyi_Feng_CV.pdf" type="application/pdf" width="100%" height="600">
 
+# If You Want to Contact Me <span style="color: grey;">(Us)</span>
 
-## Contact Me
+If you've made it this far without being scared off by my <span style="color: grey;">(our)</span> wonderful mental state, feel free to contact us using the following methods! Of course, for me <span style="color: grey;">(us)</span>, email is the best way to get in touch.
 
-If you have any questions or feedback, feel free to contact me from kqlqkqlqkqlqkqlq@gmail.com.
+WeChat ID: kqlqkqlq
+
+Phone: (+86) 13718814903 / (+1) 4376843188
+
+Email: kqlqkqlqkqlqkqlq@gmail.com
