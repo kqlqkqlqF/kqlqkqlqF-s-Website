@@ -2,7 +2,7 @@
 title: "KQLQKQLQF's Personal Website"
 ---
 
-# Welcome to kqlqkqlqF's Website!!
+# Welcome to kqlqkqlqF's Website!
 
 This is the homepage of kqlqkqlqF's website. Feel free to explore and enjoy! XD
 
@@ -31,9 +31,11 @@ In a nutshell, I'm just an ordinary university student with a strong desire to e
 
 <iframe src="//player.bilibili.com/player.html?bvid=BV1xE421T7GG&page=1&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 
+
 ## Video 2
 
 <iframe src="//player.bilibili.com/player.html?bvid=BV1rm42177qW&page=1&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+
 
 ## Video 3
 
