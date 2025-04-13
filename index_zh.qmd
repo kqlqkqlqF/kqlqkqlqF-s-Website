@@ -199,7 +199,7 @@ Lofter主页可能登录才能显示，可以直接搜索lofter账号id“wodhkq
 
 平平无奇，这就是回归生活后真实又正经的我<span style="color: grey;">（们）</span>。
 
-<embed src="document/Yiyi_Feng_CV.pdf" type="application/pdf" width="100%" height="600">
+<embed src="document/Yiyi_Feng_CVcn.pdf" type="application/pdf" width="100%" height="600">
 
 
 # 如果你想联系我<span style="color: grey;">（们）</span>

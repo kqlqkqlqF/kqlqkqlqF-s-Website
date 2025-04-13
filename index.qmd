@@ -27,7 +27,7 @@ This is the homepage of kqlqkqlqF's website. Feel free to explore and enjoy! XD
 
 <div class="image-container">
   <img src="ee/IMG_6305.jpg" alt="Drawing 5" style="width: 40%;">
-  <img src="ee/IMG_6304.jpg" alt="Drawing 5" style="width: 686%;">
+  <img src="ee/IMG_6304.jpg" alt="Drawing 5" style="width: 66%;">
 </div>
 
 <p>【This is me！kqlq】</span></p>
@@ -196,7 +196,7 @@ PS. Lofter homepage requires login to display. If you prefer not to log in, you 
 
 Just an ordinary resume, presenting the real and serious side of me <span style="color: grey;">(us)</span> after returning to life.
 
-<embed src="document/Yiyi Feng Transcript.pdf" type="application/pdf" width="100%" height="600">
+<embed src="document/11eng.pdf" type="application/pdf" width="100%" height="600">
 
 # If You Want to Contact Me <span style="color: grey;">(Us)</span>
 
