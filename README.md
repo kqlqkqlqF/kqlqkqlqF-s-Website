@@ -1,6 +1,10 @@
 # kqlqkqlqF's Website
 
-This repository contains the files for kqlqkqlqF's personal website.
+This repository contains the files for kqlqkqlqF's personal website, fell free to explore kqlq's world here! The website got both Chinese and English version, contains paintings and videos provided by kqlq. Pls enjoy! XD
+
+Link to Chinese website home: https://kqlqkqlqf.github.io/kqlqkqlqF-s-Website/index_zh.html
+
+Link to English website home: https://kqlqkqlqf.github.io/kqlqkqlqF-s-Website/
 
 ## Contents
 
