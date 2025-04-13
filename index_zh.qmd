@@ -27,8 +27,8 @@ title: "KQLQKQLQF的个人网站"
 </style>
 
 <div class="image-container">
-  <img src="ee/IMG_6305.jpeg" alt="Drawing 5" style="width: 40%;">
-  <img src="ee/IMG_6304.jpeg" alt="Drawing 5" style="width: 40%;">
+  <img src="ee/IMG_6305.jpg" alt="Drawing 5" style="width: 40%;">
+  <img src="ee/IMG_6304.jpg" alt="Drawing 5" style="width: 60%;">
 </div>
 
 
@@ -135,14 +135,14 @@ title: "KQLQKQLQF的个人网站"
 <!-- Scrollable container for images -->
 <div class="image-container">
   <!-- Images -->
-  <img src="ee/IMG_5495.jpeg" alt="Drawing 1" onclick="openModal('ee/IMG_5721.jpeg')">
-  <img src="ee/IMG_5475.jpeg" alt="Drawing 2" onclick="openModal('ee/IMG_5825.jpeg')">
-  <img src="ee/IMG_5721.jpeg" alt="Drawing 3" onclick="openModal('ee/IMG_5495.jpeg')">
-  <img src="ee/IMG_5805.jpeg" alt="Drawing 4" onclick="openModal('ee/IMG_6227.jpeg')">
-  <img src="ee/IMG_5825.jpeg" alt="Drawing 6" onclick="openModal('ee/IMG_6228.jpeg')">
-  <img src="ee/IMG_6227.jpeg" alt="Drawing 7" onclick="openModal('ee/IMG_5805.jpeg')">
-  <img src="ee/IMG_6162.jpeg" alt="Drawing 8" onclick="openModal('ee/IMG_6162.jpeg')">
-  <img src="ee/IMG_6162.jpeg" alt="Drawing 9" onclick="openModal('ee/IMG_6163.jpeg')">
+  <img src="ee/IMG_5721.jpg" alt="Drawing 1" onclick="openModal('ee/IMG_5721.jpg')">
+  <img src="ee/IMG_5825.jpg" alt="Drawing 2" onclick="openModal('ee/IMG_5825.jpg')">
+  <img src="ee/IMG_5495.jpeg" alt="Drawing 3" onclick="openModal('ee/IMG_5495.jpeg')">
+  <img src="ee/IMG_6227.jpg" alt="Drawing 4" onclick="openModal('ee/IMG_6227.jpg')">
+  <img src="ee/IMG_6228.jpg" alt="Drawing 6" onclick="openModal('ee/IMG_6228.jpg')">
+  <img src="ee/IMG_5475.jpeg" alt="Drawing 7" onclick="openModal('ee/IMG_5475.jpeg')">
+  <img src="ee/IMG_6162.jpg" alt="Drawing 8" onclick="openModal('ee/IMG_6162.jpg')">
+  <img src="ee/IMG_6163.jpeg" alt="Drawing 9" onclick="openModal('ee/IMG_6163.jpeg')">
 </div>
 
 <!-- The Modal -->

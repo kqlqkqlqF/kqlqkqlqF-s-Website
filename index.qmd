@@ -26,15 +26,15 @@ This is the homepage of kqlqkqlqF's website. Feel free to explore and enjoy! XD
 </style>
 
 <div class="image-container">
-  <img src="ee/IMG_6305.jpeg" alt="Drawing 5" style="width: 40%;">
-  <img src="ee/IMG_6304.jpeg" alt="Drawing 5" style="width: 40%;">
+  <img src="ee/IMG_6305.jpg" alt="Drawing 5" style="width: 40%;">
+  <img src="ee/IMG_6304.jpg" alt="Drawing 5" style="width: 60%;">
 </div>
 
 <p>【This is me！kqlq】</span></p>
 
 Hello, lovely reader who is reading these words. I am kqlq—of course, this is not my real name, just one of my many online aliases. "wodh," "况且," "哐切咧切"—these are all usernames I’ve used in the past or still use today. Naturally, these names represent a side of me that differs from the one I present in real life, and now, I will unreservedly reveal this side to you in its entirety. This simple personal website showcases some projects I’ve completed in the past, as well as creations born from my various hobbies. Dear reader, before you continue, let me summarize myself in one sentence. You can think of me as an eccentric creative enthusiast, most skilled at immersing myself in flights of fancy at any given moment... or, to put it less charitably, daydreaming :( Now, let’s step together into this rarely explored world.
 
-First, let’s introduce the real-world side of "Yiyi Feng." Currently, I am pursuing a bachelor’s degree in Genetic Biology and Statistics at the University of Toronto. At first glance, I might seem like a standard STEM student, right? But since middle school, I’ve harbored a dream of becoming an artist. However, when choosing my university major, I hadn’t yet realized the depth of my passion for creation, nor did I fully understand the career prospects, which led me to avoid art-related fields for my undergraduate studies. That said, I absolutely reject the absurd notion that "these four years of undergrad were completely wasted." During this time, I’ve learned many things I never expected to engage with or master—like analyzing data with R code, extracting DNA in a lab, and more. Without these experiences, I might not even have been able to create the personal website you’re viewing now. Beyond academics, I’ve also spent these years pushing beyond my comfort zone: working late-night shifts as a bartender, teaching myself drawing and creative software like Blender and AE while juggling schoolwork, and posting fanworks on social media. I can proudly say that every experience over these four years, whether good or bad, seemingly useful or a "waste of time," has collectively shaped who I am today. I am grateful for these experiences, proud to have lived them, and have drawn strength and knowledge from them. Now, after graduating from the University of Toronto, I’m taking a gap year to focus on completing my portfolio and applying for graduate studies in digital media by the end of 2025, officially embarking on my journey to become a professional creator. This will be a new challenge, and I’ll continue giving it my all.
+First, let’s introduce the real-world side of "Yiyi Feng." Currently, I am pursuing a bachelor’s degree in Genome Biology and Statistics at the University of Toronto. At first glance, I might seem like a standard STEM student, right? But since middle school, I’ve harbored a dream of becoming an artist. However, when choosing my university major, I hadn’t yet realized the depth of my passion for creation, nor did I fully understand the career prospects, which led me to avoid art-related fields for my undergraduate studies. That said, I absolutely reject the absurd notion that "these four years of undergrad were completely wasted." During this time, I’ve learned many things I never expected to engage with or master—like analyzing data with R code, extracting DNA in a lab, and more. Without these experiences, I might not even have been able to create the personal website you’re viewing now. Beyond academics, I’ve also spent these years pushing beyond my comfort zone: working late-night shifts as a bartender, teaching myself drawing and creative software like Blender and AE while juggling schoolwork, and posting fanworks on social media. I can proudly say that every experience over these four years, whether good or bad, seemingly useful or a "waste of time," has collectively shaped who I am today. I am grateful for these experiences, proud to have lived them, and have drawn strength and knowledge from them. Now, after graduating from the University of Toronto, I’m taking a gap year to focus on completing my portfolio and applying for graduate studies in digital media by the end of 2025, officially embarking on my journey to become a professional creator. This will be a new challenge, and I’ll continue giving it my all.
 
 Now, let’s talk about the lighter, fun side of my online persona, "kqlq"! I’m an anime and gaming enthusiast, with RPGs holding a special place in my heart. In my free time outside of studying, I love spending hours developing self-created worlds and stories for original characters. Sometimes, when moved by a game or anime, I’ll also create fanworks—fan art, animations, and the like—for those characters. Below, I’ve included some of my works. Some were completed years ago when my skills were still unrefined, while others are more recent. I’m aware that my current skill level is far from polished, but I’ll continue walking this path with passion, ensuring that every creation is the best I can produce at that moment. My goal is to master illustration and cel-shaded 3D animation techniques before I turn 25, and I’m working hard toward it. Regrettably, even though this is the part of myself I love most, I find it hard to write extensively about it—I feel my current abilities in drawing and animation still fall short, and grand proclamations about my aspirations would only come across as arrogant and unrealistic. So, through graduate studies, I’ll devote all my energy to catching up and learning the craft, letting my work speak for itself.
 
@@ -135,14 +135,14 @@ It contains some papers I <span style="color: grey;">(we)</span> have written ab
 <!-- Scrollable container for images -->
 <div class="image-container">
   <!-- Images -->
-  <img src="ee/IMG_5495.jpeg" alt="Drawing 1" onclick="openModal('ee/IMG_5721.jpeg')">
-  <img src="ee/IMG_5475.jpeg" alt="Drawing 2" onclick="openModal('ee/IMG_5825.jpeg')">
-  <img src="ee/IMG_5721.jpeg" alt="Drawing 3" onclick="openModal('ee/IMG_5495.jpeg')">
-  <img src="ee/IMG_5805.jpeg" alt="Drawing 4" onclick="openModal('ee/IMG_6227.jpeg')">
-  <img src="ee/IMG_5825.jpeg" alt="Drawing 6" onclick="openModal('ee/IMG_6228.jpeg')">
-  <img src="ee/IMG_6227.jpeg" alt="Drawing 7" onclick="openModal('ee/IMG_5805.jpeg')">
-  <img src="ee/IMG_6162.jpeg" alt="Drawing 8" onclick="openModal('ee/IMG_6162.jpeg')">
-  <img src="ee/IMG_6162.jpeg" alt="Drawing 9" onclick="openModal('ee/IMG_6163.jpeg')">
+  <img src="ee/IMG_5721.jpg" alt="Drawing 1" onclick="openModal('ee/IMG_5721.jpg')">
+  <img src="ee/IMG_5825.jpg" alt="Drawing 2" onclick="openModal('ee/IMG_5825.jpg')">
+  <img src="ee/IMG_5495.jpeg" alt="Drawing 3" onclick="openModal('ee/IMG_5495.jpeg')">
+  <img src="ee/IMG_6227.jpg" alt="Drawing 4" onclick="openModal('ee/IMG_6227.jpg')">
+  <img src="ee/IMG_6228.jpg" alt="Drawing 6" onclick="openModal('ee/IMG_6228.jpg')">
+  <img src="ee/IMG_5475.jpeg" alt="Drawing 7" onclick="openModal('ee/IMG_5475.jpeg')">
+  <img src="ee/IMG_6162.jpg" alt="Drawing 8" onclick="openModal('ee/IMG_6162.jpg')">
+  <img src="ee/IMG_6163.jpeg" alt="Drawing 9" onclick="openModal('ee/IMG_6163.jpeg')">
 </div>
 
 <!-- The Modal -->
@@ -196,7 +196,7 @@ PS. Lofter homepage requires login to display. If you prefer not to log in, you 
 
 Just an ordinary resume, presenting the real and serious side of me <span style="color: grey;">(us)</span> after returning to life.
 
-<embed src="document/Yiyi_Feng_CV.pdf" type="application/pdf" width="100%" height="600">
+<embed src="document/Yiyi Feng Transcript.pdf" type="application/pdf" width="100%" height="600">
 
 # If You Want to Contact Me <span style="color: grey;">(Us)</span>
 
